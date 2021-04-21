@@ -1,0 +1,23 @@
+.gallery img{
+    width: 100%;
+}
+h1{
+    color: blue;
+        background-color: coral;
+        color:darkturquoise;
+}
+h4{
+    color: darkseagreen;
+    background-color: chartreuse;
+    color: azure;
+}
+table{
+    font-family: fantasy;
+    background-blend-mode: darken;
+    border-collapse: collapse;
+    border-width: thin;
+    column-rule-color: dodgerblue;
+}
+tr{
+    font-family: sans-serif;
+}
